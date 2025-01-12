@@ -1,3 +1,3 @@
 import {testing} from "./homeTab"
+import "./style.css"
 console.log(testing);
-alert("RYLEE JUST WAIIITS ON");
