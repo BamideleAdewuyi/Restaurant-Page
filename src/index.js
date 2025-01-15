@@ -1,3 +1,3 @@
-import {testing} from "./homeTab"
+import homePage from "./homeTab"
 import "./style.css"
-console.log(testing);
+homePage();
