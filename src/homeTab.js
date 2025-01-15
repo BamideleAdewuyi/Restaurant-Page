@@ -1,6 +1,4 @@
-export const testing = "TESTING ONE TWO"
-
-function homePage() {
+export default function homePage() {
     const content = document.getElementById("content");
 }
 
