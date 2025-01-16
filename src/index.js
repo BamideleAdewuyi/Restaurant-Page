@@ -3,4 +3,6 @@ import menuPage from "./menuTab";
 import "./style.css";
 homePage();
 const homeButton = document.getElementById("home");
-homeButton.addEventListener("click", homePage());
+const menuButton = document.getElementById("menu");
+homeButton.addEventListener("click", homePage);
+menuButton.addEventListener("click", menuPage);
